@@ -6,8 +6,8 @@ To install my-service we need to install serverless.com tool to deploy our lambd
 > npm install -g serverless
 ```
 
-Set up your provider credentials
-Watch the video on setting up credentials for AWS (https://www.youtube.com/watch?v=HSd9uYj2LJA)
+##### Set up your provider credentials
+[Watch the video on setting up credentials for AWS] (https://www.youtube.com/watch?v=HSd9uYj2LJA)
 
 Then download my-service project
 ```bash
