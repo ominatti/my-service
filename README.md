@@ -18,5 +18,5 @@ Once we cloned my-service project we need to install its dependencies.
 
 We are now ready to deploy my-service (lambda functions) by using
 ```bash
-> npm run deploy -- --stage <stage>
+> npm run deploy-service -- --stage <stage>
 ```
